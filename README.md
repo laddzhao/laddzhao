@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=laddzhao&no-frame=true)](https://github.com/laddzhao)
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **服装设计**
 
 - 📫 How to reach me **laddzhao@gmail.com**
 
