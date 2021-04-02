@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laddzhao&theme=default" alt="laddzhao" /></p>
+<p><height="137px" img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laddzhao&theme=default" alt="laddzhao" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laddzhao&show_icons=true&theme=graywhite)
 
