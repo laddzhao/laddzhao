@@ -18,7 +18,7 @@
 
 <h3 align="left">语言:</h3>
 <p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/laddzhao/laddzhao/gh-pages/css.jpg" alt="css3" width="40" height="40"/></a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://zhaolinyang.ltd/images/css.gif" alt="css3" width="40" height="40"/></a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.runoob.com/wp-content/uploads/2013/07/pic_html5.gif" alt="html5" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="40" height="40"/> </a> 
 <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> 
@@ -28,7 +28,7 @@
 <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://www.photoshop.com/en/images/apps/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://www.autodesk.com.cn/products/autocad/overview?term=1-YEAR" target="_blank"> <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/lockup-610x66/autocad-lockup-610x66.png" alt="AutoCAD" width="40" height="40"/> </a> 
+<a href="https://www.autodesk.com.cn/products/autocad/overview?term=1-YEAR" target="_blank"> <img src="https://zhaolinyang.ltd/images/cad.gif" alt="AutoCAD" width="40" height="40"/> </a> 
 </p>
 
 
