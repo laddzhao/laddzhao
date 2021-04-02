@@ -18,7 +18,6 @@
 
 <h3 align="left">语言:</h3>
 <p align="left"> 
-<a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angularjs" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/laddzhao/laddzhao/gh-pages/css.jpg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/laddzhao/laddzhao/gh-pages/html.jpg" alt="html5" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.png" alt="vuejs" width="40" height="40"/> </a> 
