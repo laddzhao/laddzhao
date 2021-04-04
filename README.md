@@ -2,6 +2,7 @@
 <h3 align="center">A The internet Lovers from China</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=laddzhao&no-frame=true)](https://github.com/laddzhao)
+<img align='right' src="https://img1.baidu.com/it/u=609941097,807536779&fm=26&fmt=auto&gp=0.jpg" width="230">
 
 - 🔭 I’m currently working on **服装设计**
 
@@ -11,7 +12,6 @@
 
 - ⚡ Fun fact **网页制作**
 
-<img align='right' src="https://img1.baidu.com/it/u=609941097,807536779&fm=26&fmt=auto&gp=0.jpg" width="230">
 <h3 align="left">联系我:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/赵林阳" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="赵林阳" height="30" width="40" /></a>
