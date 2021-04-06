@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm laddzhao</h1>
 <h3 align="center">A The internet Lovers from China</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=laddzhao&no-frame=buddhism)](https://github.com/laddzhao)
+[![trophy](https://github-profile-trophy.vercel.app/?username=laddzhao&theme=buddhism)](https://github.com/laddzhao)
+
 <img align='right' src="https://img1.baidu.com/it/u=609941097,807536779&fm=26&fmt=auto&gp=0.jpg" width="230">
 
 - 🔭 I’m currently working on **服装设计**
