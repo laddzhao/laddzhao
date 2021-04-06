@@ -27,8 +27,8 @@
 <h3 align="left">工具:</h3>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://zhaolinyang.ltd/images/ai.gif" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.invisionapp.com/" target="_blank"> <img src="https://zhaolinyang.ltd/images/in.gif" alt="invision" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https:https://zhaolinyang.ltd/images/ps.gif" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://zhaolinyang.ltd/images/ps.gif" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://zhaolinyang.ltd/images/xd.gif" alt="xd" width="40" height="40"/> </a> 
 <a href="https://www.autodesk.com.cn/products/autocad/overview?term=1-YEAR" target="_blank"> <img src="https://zhaolinyang.ltd/images/cad.gif" alt="AutoCAD" width="40" height="40"/> </a> 
 </p>
 
