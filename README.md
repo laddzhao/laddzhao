@@ -23,7 +23,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://zhaolinyang.ltd/images/css.gif" alt="css3" width="40" height="40"/></a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://zhaolinyang.ltd/images/html.gif" alt="html5" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://zhaolinyang.ltd/images/vuejs.gif" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://zhaolinyang.ltd/images/vuetifyjs.gif" alt="vuetify" width="40" height="40"/> </a> 
  
 <h3 align="left">工具:</h3>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://zhaolinyang.ltd/images/ai.gif" alt="illustrator" width="40" height="40"/> </a> 
@@ -31,6 +30,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://zhaolinyang.ltd/images/ps.gif" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://zhaolinyang.ltd/images/xd.gif" alt="xd" width="40" height="40"/> </a> 
 <a href="https://www.autodesk.com.cn/products/autocad/overview?term=1-YEAR" target="_blank"> <img src="https://zhaolinyang.ltd/images/cad.gif" alt="AutoCAD" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/cn/products/premiere.html" target="_blank"> <img src="https://zhaolinyang.ltd/images/pr.gif" alt="vuetify" width="40" height="40"/> </a> 
 </p>
 
 
