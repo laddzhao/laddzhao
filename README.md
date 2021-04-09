@@ -57,8 +57,6 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laddzhao&theme=vue)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laddzhao&show_icons=true&theme=graywhite)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laddzhao)](https://github.com/laddzhao)
 
 # 此网页总访客人数：
