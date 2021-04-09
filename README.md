@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 
 <p><height="137px" img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laddzhao&theme=default" alt="laddzhao" /></p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laddzhao&theme=vue)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laddzhao&show_icons=true&theme=graywhite)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laddzhao)](https://github.com/laddzhao)
