@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <p><height="137px" img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laddzhao&theme=default" alt="laddzhao" /></p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laddzhao&theme=vue)
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/Taoism/0-profile-details.svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laddzhao&theme=vue)
 
