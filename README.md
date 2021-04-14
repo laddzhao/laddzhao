@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=laddzhao&theme=buddhism)](https://github.com/laddzhao)
 
-<img align='right' src="https://zhaolinyang.ltd/images/皮皮虾.png" width="230">
+<img align='right' src="https://zhaolinyang.ltd/images/太空.gif" width="230">
 
 - 🔭 I’m currently working on **服装设计**
 
