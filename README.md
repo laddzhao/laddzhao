@@ -5,7 +5,7 @@
 
 <img align='right' src="https://zhaolinyang.ltd/images/太空.gif" width="230">
 
-- 🔭 I’m currently working on **服装设计**
+- 🔭 I’m currently working on **UI**
 
 - 📫 How to reach me **laddzhao@gmail.com**
 
