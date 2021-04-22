@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **网页制作**
 
+- 🏫 my school **辽宁职业学院**
+
 <h3 align="left">联系我:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/赵林阳" target="blank"><img align="center" src="https://zhaolinyang.ltd/images/领英.gif" alt="赵林阳" height="40" width="40" /></a>
