@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **学习**
 
-- 📫 How to reach me **laddzhao@gmail.com**
+- 📫 How to reach me **a@zhaolinyang.ltd**
 
 - 📄 Know about my experiences [https://zhaolinyang.ltd/](https://zhaolinyang.ltd/)
 
