@@ -5,15 +5,15 @@
 
 <img align='right' src="https://zhaolinyang.ltd/images/太空.gif" width="230">
 
-- 🔭 I’m currently working on **学习**
+- 🔭 目前正在研究 **学习**
 
-- 📫 How to reach me **a@zhaolinyang.ltd**
+- 📫 邮箱 **a@zhaolinyang.ltd**
 
-- 📄 Know about my experiences [https://zhaolinyang.ltd/](https://zhaolinyang.ltd/)
+- 🌐 个人网站 [https://zhaolinyang.ltd/](https://zhaolinyang.ltd/)
 
-- ⚡ Fun fact **网页制作**
+- ⚡ 擅长 **网页制作**
 
-- 🏫 my school **辽宁职业学院**
+- 🏫 现在的学校 **辽宁职业学院**
 
 - 📄 微信 订阅号 **laddzhao**
 
