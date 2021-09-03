@@ -9,7 +9,7 @@
 
 - 📫 邮箱 **a@zhaolinyang.ltd**
 
-- 🌐 个人网站 [https://zhaolinyang.ltd/](https://zhaolinyang.ltd/)
+- <a href="https://zhaolinyang.ltd/" target="blank"><img align="center" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />  <img align="center" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /> <img align="center" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" /> </a>
 
 - ⚡ 擅长 **网页制作**
 
