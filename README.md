@@ -15,7 +15,7 @@
 
 - 🏫 现在的学校 **辽宁职业学院**
 
-- 📄 微信 订阅号 **laddzhao**
+- <img align="center" src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="laddzhao" /> 订阅号 **laddzhao**
 
 <h3 align="left">联系我:</h3>
 <p align="left">
