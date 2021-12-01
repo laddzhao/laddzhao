@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm laddzhao</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm zhaolinyang</h1>
 <h3 align="center">A The internet Lovers from China</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=laddzhao&theme=flat)](https://github.com/laddzhao)
