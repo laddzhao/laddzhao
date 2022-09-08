@@ -13,7 +13,7 @@
 
 - ⚡ 擅长 **网页制作**
 
-- 🏫 现在的学校 **辽宁职业学院**
+- 🏫 现在的学校 **辽宁职业学院**、**大连东软信息学院**
 
 - <img align="center" src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="laddzhao" /> 订阅号 **laddzhao**
 
