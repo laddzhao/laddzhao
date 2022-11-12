@@ -5,17 +5,7 @@
 
 <img align='right' src="http://kzxs.org.cn/images/太空.gif" width="230">
 
-- 🔭 目前正在研究 **学习**
-
-- 📫 邮箱 ****
-
 - <a href="http://kzxs.org.cn/" target="blank"><img align="center" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />  <img align="center" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /> <img align="center" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" /> </a>
-
-- ⚡ 擅长 **网页制作**
-
-- 🏫 现在的学校 **辽宁职业学院**,**大连东软信息学院**
-
-- <img align="center" src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="laddzhao" /> 订阅号 **laddzhao**
 
 <h3 align="left">联系我:</h3>
 <p align="left">
