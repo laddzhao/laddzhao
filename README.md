@@ -43,17 +43,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><height="137px" img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laddzhao&theme=default" alt="laddzhao" /></p>
+<hr>
 
-![Metrics](https://metrics.lecoq.io/laddzhao?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
+<p><height="137px" img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laddzhao&theme=default" alt="laddzhao" /></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laddzhao&theme=vue)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=laddzhao&theme=vue)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=laddzhao&theme=vue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laddzhao)](https://github.com/laddzhao)
+![Metrics](https://metrics.lecoq.io/laddzhao?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
 
 # 此网页总访客人数：
 ![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{laddzhao})
