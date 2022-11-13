@@ -18,13 +18,7 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://xn--btvv65f45f.site/images/html.gif" alt="html5" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://xn--btvv65f45f.site/images/vuejs.gif" alt="vuejs" width="40" height="40"/> </a> 
  
-<h3 align="left">工具:</h3>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://xn--btvv65f45f.site/images/ai.gif" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.axure.com/" target="_blank"> <img src="https://xn--btvv65f45f.site/images/RP.gif" alt="invision" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://xn--btvv65f45f.site/images/ps.gif" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://xn--btvv65f45f.site/images/xd.gif" alt="xd" width="40" height="40"/> </a> 
-<a href="https://www.autodesk.com.cn/products/autocad/overview?term=1-YEAR" target="_blank"> <img src="https://xn--btvv65f45f.site/images/cad.gif" alt="AutoCAD" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/cn/products/premiere.html" target="_blank"> <img src="https://xn--btvv65f45f.site/images/pr.gif" alt="vuetify" width="40" height="40"/> </a> 
+
 </p>
 
 
