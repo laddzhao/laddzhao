@@ -7,10 +7,7 @@
 
 - <a href="https://xn--btvv65f45f.site/" target="blank"><img align="center" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />  <img align="center" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /> <img align="center" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" /> </a>
 
-<h3 align="left">联系我:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/赵林阳" target="blank"><img align="center" src="https://xn--btvv65f45f.site/images/领英.gif" alt="赵林阳" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/15265347/laddzhao" target="blank"><img align="center" src="https://xn--btvv65f45f.site/images/stackoverflow.gif" alt="laddzhao" height="40" width="40" /></a>
+
 
 <h3 align="left">语言:</h3>
 <p align="left"> 
