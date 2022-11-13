@@ -14,10 +14,10 @@
 
 <h3 align="left">语言:</h3>
 <p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://xn--btvv65f45f.site/images/css.gif" alt="css3" width="40" height="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://xn--btvv65f45f.site/images/html.gif" alt="html5" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"> <img src="https://xn--btvv65f45f.site/images/c.gif" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank"> <img src="https://xn--btvv65f45f.site/images/java.gif" alt="vuejs" width="40" height="40"/> </a> 
+<a href="#"> <img src="https://xn--btvv65f45f.site/images/css.gif" alt="css3" width="40" height="40"/></a> 
+<a href="#"> <img src="https://xn--btvv65f45f.site/images/html.gif" alt="html5" width="40" height="40"/> </a>
+<a href="#"> <img src="https://xn--btvv65f45f.site/images/c.gif" alt="vuejs" width="40" height="40"/> </a> 
+<a href="#"> <img src="https://xn--btvv65f45f.site/images/java.gif" alt="vuejs" width="40" height="40"/> </a> 
 
 </p>
 
